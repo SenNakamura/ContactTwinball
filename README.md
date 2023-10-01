@@ -10,4 +10,4 @@ https://github.com/SenNakamura/ContactTwinball/assets/40714290/1f937031-a544-49f
 
 ![Ft7CI5EaAAAiZfw](https://github.com/SenNakamura/ContactTwinball/assets/40714290/203e347e-ae61-4cbc-93da-d873fd8f86b5)
 
-[Section.pdf](https://github.com/SenNakamura/ContactTwinball/files/12775889/Section.pdf)
+![Section](https://github.com/SenNakamura/ContactTwinball/assets/40714290/24c17878-fefb-4df0-bd02-1fd194c40291)
