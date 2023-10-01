@@ -1,5 +1,8 @@
-# ContactTwinball
+# Contact Twinball
 
+This new type of contact ball is designed for contact juggling. 
+It consists of two balls connected by a shaft, allowing for tricks like palm rolls, thanks to the bearings that enable rotation. 
+It can also be spun like a pen, making tricks previously impossible in traditional contact juggling achievable.
 
 ### Movie
 
