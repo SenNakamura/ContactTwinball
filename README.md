@@ -27,16 +27,16 @@ https://github.com/SenNakamura/ContactTwinball/assets/40714290/1f937031-a544-49f
 
 6	[SHAFT	Φ3mm x 52mm]()	1EA
 
-7	[SHAFT COLLAR	THK 5mm x OD 7mm x ID 3mm]()	4EA
+7	[SHAFT COLLAR	THK 5mm x OD 7mm x ID 3mm](https://www.monotaro.com/p/1029/5013/)	4EA
 
-8	[BEARING	688ZZ]()	4EA
+8	[BEARING	693ZZ](https://www.monotaro.com/p/1169/8417/)	4EA
 
-9	[BEARING	693ZZ]()	4EA
+9	[BEARING	688ZZ]()	4EA
 
 10	[ROUND HEAD SCREW	M3 x 60mm]()	2EA
 
 11	[SUPER LOW HEAD SCREW	M2 x 4mm]()	12 - 24EA
 
-12	[MACHINE BOLT	M3 x 5mm]()	6 - 12EA
+12	[HEX SOCKET BOLT	M3 x 5mm]()	6 - 12EA
 
 13	[NUT	M3]()	10 - 16EA
