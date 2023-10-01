@@ -22,6 +22,8 @@ MJF is available through various 3D print services.
 
 ![Ft7CI5LaEAEfAsb](https://github.com/SenNakamura/ContactTwinball/assets/40714290/2daf8f16-e562-41ce-b35d-117c43a6cd37)
 
+![fNaTMfhS](https://github.com/SenNakamura/ContactTwinball/assets/40714290/8309c3cb-8b88-46e7-bb90-343b6b2f207c)
+
 ### Drawing and BOM
 
 ![Section](https://github.com/SenNakamura/ContactTwinball/assets/40714290/24c17878-fefb-4df0-bd02-1fd194c40291)
