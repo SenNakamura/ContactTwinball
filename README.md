@@ -53,3 +53,9 @@ MJF is available through various 3D print services.
 12	HEX SOCKET BOLT	M3 x 5mm	6 - 12EA
 
 13	NUT	M3	10 - 16EA
+
+### Tips for Assembly
+
+A pin vise is useful for drilling pilot holes for screws. 
+
+For item 10, recommend to buy longer screws and use a bolt cutter to adjust the length as needed.
