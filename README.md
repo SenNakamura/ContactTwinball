@@ -9,7 +9,10 @@ It can also be spun like a pen, making tricks previously impossible in tradition
 
 ### Movie
 
-https://github.com/SenNakamura/ContactTwinball/assets/40714290/1f937031-a544-49fc-9362-ca0717180489
+
+https://github.com/SenNakamura/ContactTwinball/assets/40714290/9adff17a-3c5f-487f-a86e-f323e3ee926e
+
+
 
 
 ### Photo
@@ -20,16 +23,17 @@ The internal structural parts were procuded using PLA with FFF 3D printer, while
 
 MJF is available through various 3D print services.
 
-![Ft7CI5EaAAAiZfw](https://github.com/SenNakamura/ContactTwinball/assets/40714290/384ec86d-04a1-4322-bd79-88a01527f59d)
+![Ft7CI5EaAAAiZfw](https://github.com/SenNakamura/ContactTwinball/assets/40714290/e891a54f-20ed-4683-8df3-97ee9fe0c23d)
 
-![Ft7CI5LaEAEfAsb](https://github.com/SenNakamura/ContactTwinball/assets/40714290/2db1b399-33ed-4b5a-9715-ed650619650d)
+![Ft7CI5LaEAEfAsb](https://github.com/SenNakamura/ContactTwinball/assets/40714290/2a1f8ca3-d6c9-4f3a-9a6f-6521245c9ddd)
 
-![fNaTMfhS](https://github.com/SenNakamura/ContactTwinball/assets/40714290/8309c3cb-8b88-46e7-bb90-343b6b2f207c)
+![fNaTMfhS](https://github.com/SenNakamura/ContactTwinball/assets/40714290/5ea490c5-93eb-4637-b250-4373db1909e6)
 
 
 ### Drawing and BOM
 
-![Section](https://github.com/SenNakamura/ContactTwinball/assets/40714290/24c17878-fefb-4df0-bd02-1fd194c40291)
+![Section](https://github.com/SenNakamura/ContactTwinball/assets/40714290/eb7ac47d-664a-459a-8551-452f2811195a)
+
 
 1	BALL	3D PRINT	4EA
 
