@@ -44,4 +44,4 @@ https://github.com/SenNakamura/ContactTwinball/assets/40714290/1f937031-a544-49f
 
 12	HEX SOCKET BOLT	M3 x 5mm	6 - 12EA
 
-13	[NUT	M3]()	10 - 16EA
+13	NUT	M3	10 - 16EA
