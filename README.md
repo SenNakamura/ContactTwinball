@@ -18,9 +18,9 @@ The internal structural parts were procuded using PLA with FFF 3D printer, while
 
 MJF is available through various 3D print services.
 
-![Ft7CI5EaAAAiZfw](https://github.com/SenNakamura/ContactTwinball/assets/40714290/203e347e-ae61-4cbc-93da-d873fd8f86b5)
+![Ft7CI5EaAAAiZfw](https://github.com/SenNakamura/ContactTwinball/assets/40714290/384ec86d-04a1-4322-bd79-88a01527f59d)
 
-![Ft7CI5LaEAEfAsb](https://github.com/SenNakamura/ContactTwinball/assets/40714290/2daf8f16-e562-41ce-b35d-117c43a6cd37)
+![Ft7CI5LaEAEfAsb](https://github.com/SenNakamura/ContactTwinball/assets/40714290/2db1b399-33ed-4b5a-9715-ed650619650d)
 
 ![fNaTMfhS](https://github.com/SenNakamura/ContactTwinball/assets/40714290/8309c3cb-8b88-46e7-bb90-343b6b2f207c)
 
