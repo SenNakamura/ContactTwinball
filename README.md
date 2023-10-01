@@ -6,9 +6,11 @@ It consists of two balls connected by a shaft, allowing for tricks like palm rol
 
 It can also be spun like a pen, making tricks previously impossible in traditional contact juggling achievable.
 
+
 ### Movie
 
 https://github.com/SenNakamura/ContactTwinball/assets/40714290/1f937031-a544-49fc-9362-ca0717180489
+
 
 ### Photo
 
@@ -23,6 +25,7 @@ MJF is available through various 3D print services.
 ![Ft7CI5LaEAEfAsb](https://github.com/SenNakamura/ContactTwinball/assets/40714290/2db1b399-33ed-4b5a-9715-ed650619650d)
 
 ![fNaTMfhS](https://github.com/SenNakamura/ContactTwinball/assets/40714290/8309c3cb-8b88-46e7-bb90-343b6b2f207c)
+
 
 ### Drawing and BOM
 
@@ -53,6 +56,7 @@ MJF is available through various 3D print services.
 12	HEX SOCKET BOLT	M3 x 5mm	6 - 12EA
 
 13	NUT	M3	10 - 16EA
+
 
 ### Tips for Assembly
 
