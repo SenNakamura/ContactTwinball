@@ -59,3 +59,5 @@ MJF is available through various 3D print services.
 A pin vise is useful for drilling pilot holes for screws. 
 
 For item 10, recommend to buy longer screws and use a bolt cutter to adjust the length as needed.
+
+Reccomend to use adhesive between screw head of item 10 and item 13
