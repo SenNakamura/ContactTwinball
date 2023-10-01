@@ -1,7 +1,9 @@
 # Contact Twinball
 
 This new type of contact ball is designed for contact juggling. 
+
 It consists of two balls connected by a shaft, allowing for tricks like palm rolls, thanks to the bearings that enable rotation. 
+
 It can also be spun like a pen, making tricks previously impossible in traditional contact juggling achievable.
 
 ### Movie
@@ -38,8 +40,8 @@ https://github.com/SenNakamura/ContactTwinball/assets/40714290/1f937031-a544-49f
 
 10	ROUND HEAD SCREW	M3 x 60mm	2EA
 
-11	[SUPER LOW HEAD SCREW	M2 x 4mm]()	12 - 24EA
+11	SUPER LOW HEAD SCREW	M2 x 4mm	12 - 24EA
 
-12	[HEX SOCKET BOLT	M3 x 5mm]()	6 - 12EA
+12	HEX SOCKET BOLT	M3 x 5mm	6 - 12EA
 
 13	[NUT	M3]()	10 - 16EA
